@@ -16,5 +16,5 @@ This project involves:
 To run this notebook, you'll need to install the following Python libraries:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
+pip install numpy pandas matplotlib seaborn scikit-learn gradio
 
